@@ -1,3 +1,5 @@
+//template code for the instertions sort algorithm
+
 for(int i = 1; i < n; i++)
 {
     int key = arr[i];
